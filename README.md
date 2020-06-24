@@ -8,3 +8,9 @@
   O usuário pode fazer a seleção de múltiplas legendas através do campo "Selecione as Legendas" e
   o aplicativo retornará as palavras mais faladas com a quantidade de vezes em que foi citada.
 
+### Layout
+<h2>Interface principal</h2>
+![Tela Main](/layout/MainInterface.png)
+
+<h2>Resultados após o processamento do arquivo .srt</h2>
+![Tela Main](/layout/FinalResult.png)
