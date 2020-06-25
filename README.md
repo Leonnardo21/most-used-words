@@ -10,7 +10,7 @@
 
 ### Layout
 <h2>Interface principal</h2>
-![Tela Main](/layout/MainInterface.png)
+![Tela Main](/layout/MainInterface.png?raw=true)
 
 <h2>Resultados após o processamento do arquivo .srt</h2>
-![Tela Main](/layout/FinalResult.png)
+![Tela Main](/layout/FinalResult.png?raw=true)
